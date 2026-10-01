@@ -214,7 +214,7 @@ export const botConfig = {
   // =========================
   tickets: {
     // Category ID where new tickets are created (null = no forced category).
-    defaultCategory: 1554579796560846958,
+    defaultCategory: null,
 
     // Role IDs allowed to manage/support tickets.
     supportRoles: [1553433773889036438],
@@ -249,7 +249,7 @@ export const botConfig = {
     },
 
     // Default priority for new tickets.
-    defaultPriority: "1554579796560846958",
+    defaultPriority: "none",
 
     // Category ID where closed tickets are archived.
     archiveCategory: 1554579860842741830,
