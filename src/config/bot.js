@@ -249,7 +249,7 @@ export const botConfig = {
     },
 
     // Default priority for new tickets.
-    defaultPriority: "none",
+    defaultPriority: "1554579796560846958",
 
     // Category ID where closed tickets are archived.
     archiveCategory: 1554579860842741830,
